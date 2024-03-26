@@ -81,12 +81,25 @@
 
 #Ejercicio 8
 #codigo
-# materia_favorita = str([input("Ingresa tus materias favoritas: ")])
-# print ("Las materias que me gustan son: ", materia_favorita)
+# materias = ["Matematicas","Arquitectura de Hardware","Formacion Etca y Ciudadana", "Biologia", "Programacion","Redes"]
+# print("las materias del curso son", materias)
 
 #Ejercicio 9
 #codigo
 
+# marca_automoviles = ["Toyota", "Wolkswagen", "Peugeot", "Renault",]
+# print("las marcas de automoviles disponibles son:", marca_automoviles)
+# usuario = int(input("ingrese un numero del 1 al 4 para ver la disponibilidad"))
+# if usuario == 1:
+#     print(marca_automoviles[usuario -1])
+# elif usuario == 2: 
+#     print(marca_automoviles[usuario -1])
+# elif usuario == 3:
+#     print(marca_automoviles[usuario -1])
+# elif usuario == 3:
+#     print(marca_automoviles[usuario -1])
+# else: 
+#     print("numero invalido, por favor ingrese un numero del 1 al 4")
 # autos = ["Toyota", "Wolkswagen", "Peugeot", "Renault", "Ford", "Chevrolet", "Fiat", "Dodge"]
 # print(autos)
 # usuario_autos = int(input("Ingrese qué marca de autos desea ver por medio de números enteros: "))

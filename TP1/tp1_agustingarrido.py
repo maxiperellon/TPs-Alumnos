@@ -1,5 +1,5 @@
 #PROFESOR: MAXIMILIANO PERELLÓN
-#ALUMNO: ....
+#ALUMNO: agustin garrido
 
 #           TRABAJO PRACTICO Nº1
 

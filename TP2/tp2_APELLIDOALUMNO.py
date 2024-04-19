@@ -55,13 +55,13 @@
 
 
 #Ejercicio 6
-# numero = float(input("Por favor, ingresa un número: "))
-# if numero > 0:
-#     print("El número ingresado es positivo.")
-# elif numero < 0:
-#     print("El número ingresado es negativo.")
-# else:
-#     print("El número ingresado es cero.")
+numero = float(input("Por favor, ingresa un número: "))
+if numero > 0:
+     print("El número ingresado es positivo.")
+elif numero == 0:
+     print("El número ingresado es cero.")
+else:   
+     print("El número ingresado es negativo.")
 
 
 #Ejercicio 7

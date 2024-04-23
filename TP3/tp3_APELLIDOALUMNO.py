@@ -57,24 +57,24 @@
 
 # #Ejercicio 7
 
-numeros = input("Ingrese una serie de números enteros separados por espacios: ")
-pares = 0
-impares = 0
-numeros2 = numeros.split()
-for num in numeros2:
-    if int(num) % 2 == 0:
-        pares += 1
-    else:
-        impares += 1
-print("Cantidad de números pares:", pares)
-print("Cantidad de números impares:", impares)
+# numeros = input("Ingrese una serie de números enteros separados por espacios: ")
+# pares = 0
+# impares = 0
+# numeros2 = numeros.split()
+# for num in numeros2:
+#     if int(num) % 2 == 0:
+#         pares += 1
+#     else:
+#         impares += 1
+# print("Cantidad de números pares:", pares)
+# print("Cantidad de números impares:", impares)
 
 
-#Ejercicio 8
-numero = int(input("Ingrese un número entero: "))
-i = 1
-print("Tabla de multiplicar del", numero, ":")
-while i <= 10:
-    resultado = numero * i
-    print(numero, "x", i, "=", resultado)
-    i += 1
+# #Ejercicio 8
+# numero = int(input("Ingrese un número entero: "))
+# i = 1
+# print("Tabla de multiplicar del", numero, ":")
+# while i <= 10:
+#     resultado = numero * i
+#     print(numero, "x", i, "=", resultado)
+#     i += 1

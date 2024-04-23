@@ -72,6 +72,10 @@
 #Ejercicio 9
 #listaGaseosas = ["coca cola", "fanta", "sprite", "manaos", "pepsi", "paso de los toros", "mirinda", "goliat sport"]
 #print(listaGaseosas)
+<<<<<<< HEAD
 #usuario_gaseosas = int(input("Ingrese qué gaseosa desea ver por medio de números enteros: "))
+=======
+#suario_gaseosas = int(input("Ingrese qué gaseosa desea ver por medio de números enteros: "))
+>>>>>>> 7e278d5ee8830dcff97e73a738b1090c99d35902
 #elemento = listaGaseosas[usuario_gaseosas]
 #print("La información de la gaseosa que el usuario quiere ver es: ", elemento)

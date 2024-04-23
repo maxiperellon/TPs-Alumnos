@@ -1,0 +1,78 @@
+#PROFESOR: MAXIMILIANO PERELLON
+#ALUMNO: TADEO GIORDANO
+
+#           TRABAJO PRACTICO Nº3 BUCLES
+
+#PARA COMENTAR UN BLOQUE DE CODIGO: 
+##SELECCIONAR EL CODIGO QUE QUERES COMENTAR E INGRESAR LOS ATAJOS DE TECLADO: CTRL + K / CTRL + C
+
+#PARA DESCOMENTAR UN BLOQUE DE CODIGO: 
+##SELECCIONAR EL CODIGO QUE QUERES DESCOMENTAR E INGRESAR LOS ATAJOS DE TECLADO: CTRL + K / CTRL + U
+
+#Ejercicio 1
+#for numero in range(1, 11):
+#     print(numero)
+
+
+#Ejercicio 2
+#numeros = [1, 2, 3, 4, 5]
+# suma = 0
+# for numero in numeros:
+#     suma += numero
+# promedio = suma / len(numeros)
+# print("El promedio es:", promedio)
+
+#Ejercicio 3
+# numero = int(input("Ingrese un número: "))
+# i = 2
+# while i <= numero:
+#     if i % 2 == 0:
+#         print(i)
+#     i += 1
+
+#Ejercicio 4
+#palabra = input("Ingrese una palabra: ")
+# for letra in palabra:
+#     print(letra)
+
+#Ejercicio 5
+# numero = int(input("Ingrese un número entero positivo: "))
+# suma_impares = 0
+# contador = 1
+# while contador <= numero:
+#     suma_impares += contador
+#     contador += 2
+# print("La suma de todos los números impares desde 1 hasta", numero, "es:", suma_impares)
+
+#Ejercicio 6
+# numero = int(input("Ingrese un número entero positivo: "))
+# suma_pares = 0
+# contador = 2
+# while contador <= numero:
+#     suma_pares += contador
+#     contador += 2
+# print("La suma de todos los números pares desde 2 hasta", numero, "es:", suma_pares)
+
+
+#Ejercicio 7
+# numeros = input("Ingrese una serie de números enteros separados por espacios: ")
+# numeros_lista = numeros.split()
+# pares = 0
+# impares = 0
+# for numero in numeros_lista:
+#     num = int(numero)
+#     if num % 2 == 0:
+#         pares += 1
+#     else:
+#         impares += 1
+# print("Cantidad de números pares:", pares)
+# print("Cantidad de números impares:", impares)
+
+#Ejercicio 8
+# numero = int(input("Ingrese un número entero: "))
+# i = 1
+
+# while i <= 10:
+#     resultado = numero * i
+#     print(numero, "x", i, "=", resultado)
+#     i += 1

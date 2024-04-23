@@ -55,24 +55,4 @@
 
 # #Ejercicio 7
 
-# serie_numeros = input("Ingrese una serie de números enteros separados por espacios: ")
-# numeros = serie_numeros.split()
-# pares = 0
-# impares = 0
-# for numero in numeros:
-#     numero = int(numero)    
-#     if numero % 2 == 0:
-#         pares += 1
-#     else:
-#         impares += 1
-# print("Cantidad de números pares:", pares)
-# print("Cantidad de números impares:", impares)
-
 #Ejercicio 8
-# numero = int(input("Ingrese un número entero: "))
-# contador = 1
-# print("Tabla de multiplicar del", numero, ":")
-# while contador <= 10:
-#     resultado = numero * contador
-#     print(numero, "x", contador, "=", resultado)
-#     contador += 1

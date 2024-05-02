@@ -97,7 +97,7 @@
 
 #Ejercicio 10
 # letra = str(input("Ingrese una letra: "))
-# if letra == "a" or "e" or "i" or "o" or "u":
+# if letra in "aeiou":
 #     print ("Es una vocal")
-# elif letra == "b" or "c" or "d" or "f" or "g" or "h" or "j" or "k" or "l" or "m" or "n" or "p" or "q" or "r" or "s" or "t" or "v" or "w" or "x" or "y" or "z":
-#     print("Es una consonante")
+# else:
+#     print("Es una consonantel")

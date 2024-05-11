@@ -38,7 +38,7 @@
 #Ejercicio 5
 # cadena=input("ingrese una cadena de texto: ")
 # if "a" in cadena or "A":
-#     print("La cadena es contiene una cadena")
+#     print("La cadena es contiene una a")
 
 #Ejercicio 6
 # cadena=str(input("ingrese una cadena de texto: "))
